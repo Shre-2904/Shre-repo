@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Third commit content
+=======
+First commit content
+>>>>>>> parent of 22b2482 (Second commit on notes.txt)
